@@ -92,4 +92,13 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
+
+    <!--Display settings fragment -->
+    <string name="display_settings_title">Custom display settings</string>
+    <string name="display_settings_summary">HBM, DC Dimming</string>
+
+    <!-- HBM settings -->
+    <string name="hbm_mode_title">High Brightness Mode</string>
+    <string name="hbm_mode_summary">High Brightness Mode allows the display panel brightness to go above the maximum stock value. Which helps in improving visibility in direct sunlight</string>
+    <string name="hbm_enable_summary_not_supported">HBM is not currently supported by the kernel</string>
 </resources>

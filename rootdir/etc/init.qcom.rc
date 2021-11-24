@@ -221,6 +221,9 @@ on boot
     # Allow system to modify exposure adjustment state
     chown system system /sys/devices/platform/soc/soc:qcom,dsi-display-primary/dimlayer_bl
     chmod 0660 /sys/devices/platform/soc/soc:qcom,dsi-display-primary/dimlayer_bl
+    
+    chown system system /sys/devices/platform/soc/soc:qcom,dsi-display-primary/dimlayer_hbm
+    chmod 0660 /sys/devices/platform/soc/soc:qcom,dsi-display-primary/dimlayer_hbm
 
 # msm specific files that need to be created on /data
 on post-fs-data
