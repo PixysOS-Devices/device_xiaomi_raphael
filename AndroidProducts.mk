@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/kscope_raphael.mk
+    $(LOCAL_DIR)/pixys_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    kscope_raphael-userdebug \
-    kscope_raphael-user \
-    kscope_raphael-eng
+    pixys_raphael-userdebug \
+    pixys_raphael-user \
+    pixys_raphael-eng

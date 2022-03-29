@@ -1,0 +1,29 @@
+[
+  {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "twelve"
+  },
+  {
+    "repository": "kernel_xiaomi_raphael",
+    "target_path": "kernel/xiaomi/raphael",
+    "branch": "twelve"
+  },
+  {
+    "repository": "PixysOS/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "twelve",
+    "remote": "github"
+  },
+  {
+    "repository": "Panchajanya1999/azure-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-azure",
+    "branch": "main",
+    "remote": "gitlab"
+  },
+  {
+    "repository": "vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch": "twelve"
+  }
+]
