@@ -14,7 +14,7 @@
   {
     "repository": "kernel_xiaomi_raphael",
     "target_path": "kernel/xiaomi/raphael",
-    "branch": "twelve"
+    "branch": "twelve-PELT"
   },
   {
     "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
@@ -27,6 +27,12 @@
     "target_path": "packages/resources/devicesettings",
     "branch": "lineage-19.1",
     "remote": "github"
+  },
+  {
+    "repository": "Panchajanya1999/azure-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-azure",
+    "branch": "main",
+    "remote": "gitlab"
   },
   {
     "repository": "vendor_xiaomi_raphael",
