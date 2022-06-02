@@ -1,8 +1,8 @@
 [
   {
-    "repository": "LineageOS/android_hardware_xiaomi",
+    "repository": "Azure-Helper/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "lineage-19.1",
+    "branch": "twelve",
     "remote": "github"
   },
   {
