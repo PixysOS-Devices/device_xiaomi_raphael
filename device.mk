@@ -205,6 +205,9 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.3-service.xiaomi \
     vendor.goodix.hardware.biometrics.fingerprint@2.1.vendor
 
+PRODUCT_PACKAGES += \
+    libudfpshandler
+
 # FM
 PRODUCT_PACKAGES += \
     FM2 \
