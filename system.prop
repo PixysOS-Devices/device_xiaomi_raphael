@@ -3,7 +3,7 @@ persist.vendor.camera.privapp.list=com.android.camera
 log.tag.CHIUSECASE=ERROR
 
 # Display
-debug.sf.enable_hwc_vds=1
+debug.sf.enable_hwc_vds=0
 
 # FUSE passthrough
 persist.sys.fuse.passthrough.enable=true
