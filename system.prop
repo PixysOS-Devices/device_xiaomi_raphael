@@ -1,5 +1,6 @@
 # Camera
 persist.vendor.camera.privapp.list=com.android.camera
+log.tag.CHIUSECASE=ERROR
 
 # Display
 debug.sf.enable_hwc_vds=1
