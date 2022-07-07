@@ -1,9 +1,8 @@
 [
   {
-    "repository": "Azure-Helper/android_hardware_xiaomi",
+    "repository": "hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "twelve",
-    "remote": "github"
+    "branch": "twelve"
   },
   {
     "repository": "kernel_xiaomi_raphael",
