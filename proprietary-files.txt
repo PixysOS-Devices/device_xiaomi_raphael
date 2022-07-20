@@ -565,7 +565,6 @@ vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 vendor/bin/loc_launcher
 vendor/bin/lowi-server
 vendor/bin/mlid
-vendor/bin/slim_daemon
 vendor/bin/xtra-daemon
 vendor/bin/xtwifi-client
 vendor/bin/xtwifi-inet-agent
@@ -591,7 +590,6 @@ vendor/lib64/liblowi_wifihal.so
 vendor/lib64/libminksocket.so
 vendor/lib64/libqcc_file_agent.so
 vendor/lib64/libqdma_file_agent.so
-vendor/lib64/libslimclient.so
 vendor/lib64/libxtadapter.so
 vendor/lib64/vendor.qti.gnss@1.0.so
 vendor/lib64/vendor.qti.gnss@1.1.so
